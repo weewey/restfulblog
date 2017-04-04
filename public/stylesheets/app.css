@@ -9,3 +9,7 @@ i.icon{
 .button.blue{
     text-align: center;
 }
+
+#delete{
+    display:inline;
+}
